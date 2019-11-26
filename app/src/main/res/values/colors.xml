@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#bebebe</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navbar_background">#1a1a48</color>
+    <color name="toolbar_background">#bebebe</color>
+    <color name="dialog_button_color">#26C6DA</color>
+    <color name="data_entry_color">#E8C9E5</color>
+    <color name ="background_color">#98FB98</color>
+    <color name ="background_color1">#B0E0E6</color>
+    <color name ="system_red">#ff0000</color>
+    <color name ="system_transparent">#00000000</color>
+    <color name ="system_blue">#0000ff</color>
+</resources>
